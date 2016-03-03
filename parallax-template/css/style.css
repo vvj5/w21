@@ -18,6 +18,14 @@ p {
   line-height: 2rem;
 }
 
+.dropdown-content li > a, .dropdown-content li > span {
+  font-size: 16px;
+  color: #F66E00;
+  display: block;
+  line-height: 22px;
+  padding: 14px 16px;
+}
+
 .button-collapse {
   color: #666666;
 }
@@ -53,7 +61,7 @@ p {
 
 @media only screen and (min-width: 1200px) {
   html {
-    font-size: `s /z;
+    font-size: 15px;
   }
 }
 
