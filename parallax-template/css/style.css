@@ -18,6 +18,11 @@ p {
   line-height: 2rem;
 }
 
+.fa-icon-style {
+  margin-right: 10px;
+  display: inline-block;
+}
+
 .dropdown-content li > a, .dropdown-content li > span {
   font-size: 16px;
   color: #F66E00;
